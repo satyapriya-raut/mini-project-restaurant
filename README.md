@@ -1,4 +1,4 @@
-# mini-project-restaurant
+# Restaurant
 A mini project on restaurant billing system developed JAVA in third year of my engineering.
 
 It has two modules :
